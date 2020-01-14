@@ -1,23 +1,41 @@
-# PanelCV
+# resumecard
+-------
+resumecard is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal resume.  
 
-This theme is designed by [flexycodex](https://themeforest.net/item/flexyvcard-responsive-vcard-template-/7158750) and modified by [Locky](https://github.com/junlulocky)
+[![Build Status](https://travis-ci.org/ddbullfrog/resumecard.svg?branch=gh-pages)](https://travis-ci.org/ddbullfrog/resumecard)
 
-I have made this into a Jekyll Theme. Demo: [https://jekyller.github.io/PanelCV](https://jekyller.github.io/PanelCV)
+## Demo
+-------
+You can see the live demo of [resumecard](https://ddbullfrog.github.io/resumecard)
 
-The theme would look like this 
+This is the web page on desktop browser.
 
-![Demo](/images/demo.png)
+![Desktop](https://github.com/ddbullfrog/resumecard/blob/gh-pages/_assets/normal.jpg)
 
+## Getting Started
+-------
+- [Fork this repository](https://github.com/ddbullfrog/resumecard/fork)
+- Clone it: `git clone https://github.com/YOUR-USER/resumecard`
+- Run the jekyll server: `jekyll serve`
 
-# Installation
+You should have a server up and running locally at <http://localhost:4000>.
 
-- Fork the repository
-- Go to settings and set Github Pages source as master.
-- Your new site should be ready at https://username.github.io/PanelCV/
+## Features
+-------
+- Responsive Jekyll theme
+- Easy integration with Google Analytics
 
-Check out for more themes: [Jekyll Themes](http://jekylltheme.org)
+## Configuration
+-------
+- _config.yml
+-  CNAME
+	If you're using it on GitHub Pages with a custom domain name, 
+	you'll want to change it to be the domain you're going to use. 
+	All that should be in here is a domain name on the first line and nothing else (like: `example.com`).
+-  avatar.JPG
+	This is a smaller version of my gravatar for use as the icon in your browser's address bar. 
+	You should change it to whatever you'd like.
 
-
-# Author
-
-- [Locky](https://github.com/junlulocky)
+## License
+-------
+Open sourced under the [MIT license](LICENSE.md).
