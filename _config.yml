@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
+title: Aashish Aadarsh
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: aashish-aadarsh.github.io
+url: https://aashish-aadarsh.github.io
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,18 +14,17 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
-  weibo:
-  github: ddbullfrog
+  name: Aashish Aadarsh
+  title: Senior Developer(Java, Android)
+  address: Bengaluru, Karnataka
+  email: aashish.aadarsh@outlook.com
+  link: https://aashish-aadarsh.github.io
+  github: aashish-aadarsh
   linkedin: ddbullfrog
   twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
-  stackoverflow:
-#  stackoverflow: 4582127
+  stackoverflow: 5028082
+
   workHistory:
     - work1:
       company: XXX Ltd
