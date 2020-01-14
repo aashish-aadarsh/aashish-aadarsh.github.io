@@ -1,7 +1,7 @@
 # Site settings
 title: Aashish Aadarsh
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
+description: My Portfolio
+favicon: /assets/img/avatar.png
 baseurl: aashish-aadarsh.github.io
 url: https://aashish-aadarsh.github.io
 rss_url: /pages/atom.xml
@@ -58,14 +58,11 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
       proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+    - language2:
+      name: Hindi
+      proficiency: Native
   programmingSkills:
     - skill1:
       name: HTML
