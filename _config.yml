@@ -68,13 +68,13 @@ author:
       percentage: 90%
     - skill2:
       name: Java, Spring-Boot, Hibernate
-      percentage: 80%
+      percentage: 90%
     - skill3:
       name: JavaScript
       percentage: 70%
     - skill4:
       name: MySQL, MongoDB, Neo4j
-      percentage: 70%
+      percentage: 80%
     - skill5:
       name: Docker, Jenkins
       percentage: 70%
