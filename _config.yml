@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Aashish Aadarsh
-  title: Senior Developer(Java, Android)
+  title: Senior FullStack Developer
   address: Bengaluru, Karnataka
   email: aashish.aadarsh@outlook.com
   link: https://aashish-aadarsh.github.io
@@ -49,13 +49,12 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
+      organization: Bhagalpur College of Engineering
+      location: Bhagalpur, Bihar
+      degree: Bachelor of Technology
+      major: Computer Science & Engineering
       started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2010 - 2014)
   languages:
     - language1:
       name: English
@@ -65,17 +64,17 @@ author:
       proficiency: Native
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
-    - skill2:
-      name: Bootstrap
+      name: Android
       percentage: 90%
+    - skill2:
+      name: Java, Spring-Boot, Hibernate
+      percentage: 80%
     - skill3:
       name: JavaScript
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: MySQL, MongoDB, Neo4j
       percentage: 70%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Docker, Jenkins
+      percentage: 70%
