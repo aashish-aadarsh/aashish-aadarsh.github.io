@@ -32,16 +32,14 @@ author:
       title: FullStack Engineer
       started: 2015
       duration: (2015 - Present)
-      description: Some description
-      
-    - work1:
-      company: Mindtree LTD
-      location: Bengaluru, Karnataka
-      title: FullStack Engineer
-      started: 2015
-      duration: (2015 - Present)
-      description: Some description 
-   
+      description: An IT professional, skilled in Java, Spring Boot, Android Development and Devops with strong engineering professional, domain knowledge having an overall experience of more than 5 years.
+            - Multiple Android application with Android Jetpack component with offline first approach.
+            - Developed multiple micro-service backed with different database with JAVA and KOTLIN as backend langugae.
+            - Worked with Service Oriented Architecture, Spring MVC application.
+            - Different types of database, MySQL, MongoDB and Neo4j.
+            - Experience on Devop tools such as Jenkins, Docker, Gitlab runner.
+            - Basics of AWS and GCP as cloud platform.
+         
   educationHistory:
     - education1:
       organization: Bhagalpur College of Engineering
