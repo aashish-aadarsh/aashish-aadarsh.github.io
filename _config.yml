@@ -27,26 +27,21 @@ author:
 
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Mindtree LTD
+      location: Bengaluru, Karnataka
+      title: FullStack Engineer
+      started: 2015
+      duration: (2015 - Present)
+      description: Some description
+      
+    - work1:
+      company: Mindtree LTD
+      location: Bengaluru, Karnataka
+      title: FullStack Engineer
+      started: 2015
+      duration: (2015 - Present)
+      description: Some description 
+   
   educationHistory:
     - education1:
       organization: Bhagalpur College of Engineering
@@ -71,7 +66,7 @@ author:
       percentage: 90%
     - skill3:
       name: React JS
-      percentage: Loading...
+      percentage: 30%
     - skill4:
       name: MySQL, MongoDB, Neo4j
       percentage: 80%
