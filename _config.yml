@@ -70,8 +70,8 @@ author:
       name: Java, Spring-Boot, Hibernate
       percentage: 90%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: React JS
+      percentage: Loading...
     - skill4:
       name: MySQL, MongoDB, Neo4j
       percentage: 80%
