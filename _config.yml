@@ -37,7 +37,7 @@ author:
             <br>- Developed multiple micro-service backed with different database with JAVA and KOTLIN as backend langugae.
             <br>- Worked with Service Oriented Architecture, Spring MVC application.
             <br>- Different types of database, MySQL, MongoDB and Neo4j.
-            <br>- Experience on Devop tools such as Jenkins, Docker, Gitlab runner.
+            <br>- Experience on Devop tools such as Jenkins, Docker, Gitlab, Nexus, Ansible.
             <br>- Basics of AWS and GCP as cloud platform.
          
   educationHistory:
@@ -46,7 +46,7 @@ author:
       location: Bhagalpur, Bihar
       degree: Bachelor of Technology
       major: Computer Science & Engineering
-      started: 2005
+      started: 2010
       duration: (2010 - 2014)
   languages:
     - language1:
